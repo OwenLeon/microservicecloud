@@ -1,0 +1,5 @@
+com/owen/springcloud/controller/DeptController.class
+com/owen/springcloud/dao/DeptDao.class
+com/owen/springcloud/service/impl/DeptServiceImpl.class
+com/owen/springcloud/service/DeptService.class
+com/owen/springcloud/DeptProviderhystrix8001_App.class
